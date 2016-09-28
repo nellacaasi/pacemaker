@@ -2,7 +2,6 @@ package controllers;
 
 import java.io.IOException;
 import java.util.Collection;
-import java.util.List;
 
 import models.User;
 
